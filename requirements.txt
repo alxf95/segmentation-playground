@@ -1,0 +1,5 @@
+yt-dlp
+pandas
+scikit-learn
+librosa
+numpy
